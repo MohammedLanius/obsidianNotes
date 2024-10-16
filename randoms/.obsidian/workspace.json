@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "ea6f82aa4e496351",
+    "type": "split",
+    "children": [
+      {
+        "id": "5206b0e2bb3cf531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601e3bf45b3f9a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "عشوائيات لغوية.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77a3fe1d64591b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "جُمل.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864321e342d386ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "770135bae416f496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c1e6a924af1b47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bd954bc1c58f1d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a8be73fb76f0701",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a2e29cae42cebd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1da2b26cd7e17f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53fdbe6dc6164af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "جُمل.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f582f134491ca67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "جُمل.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "150b70c9c66c8f5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22749343017d54d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "جُمل.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77a3fe1d64591b32",
+  "lastOpenFiles": [
+    "مرادفات الذكاء الصناعي.md",
+    "www.claudi.ai 1.md",
+    "جُمل.md",
+    "laudi.ai.md",
+    "عشوائيات لغوية.md",
+    "Pasted image 20241016195454.png"
+  ]
+}
